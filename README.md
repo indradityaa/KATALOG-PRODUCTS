@@ -37,4 +37,4 @@ Project ini masih bersifat sederhana dan dapat dikembangkan lebih lanjut di masa
 
 ---
 
-🔗 Live Demo: https://username.github.io/katalog-produk
+🔗 Live Demo: https://indradityaa.github.io/KATALOG-PRODUCTS/
