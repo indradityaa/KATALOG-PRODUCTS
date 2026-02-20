@@ -1,40 +1,86 @@
-# 🛍️ Web Katalog Produk
+# 🛍️ Web Product Catalog
 
-Website katalog produk sederhana yang dibuat menggunakan **HTML, CSS, dan JavaScript (Vanilla JS)**.  
-Project ini bertujuan untuk menampilkan daftar produk dengan tampilan yang rapi, responsif, dan mudah digunakan.
+A simple responsive product catalog website built using **HTML, CSS (Vanilla), and JavaScript**.  
+This project was developed as part of my frontend learning journey and serves as a portfolio project for internship applications.
 
 ---
 
-## 🚀 Fitur
-- Menampilkan daftar produk secara terstruktur
-- Layout responsif untuk berbagai ukuran layar
-- Manipulasi DOM menggunakan JavaScript dasar
-- Antarmuka sederhana dan user-friendly
+## 📌 Project Overview
+
+The Web Product Catalog displays a structured list of products with a clean and user-friendly interface.  
+It focuses on implementing fundamental frontend concepts without using any external CSS or JavaScript frameworks.
+
+---
+
+## 🚀 Features
+
+- Structured product display layout
+- Responsive design (mobile-friendly)
+- DOM manipulation using JavaScript
+- Clean and simple user interface
+- Organized project folder structure
 
 ---
 
 ## 🛠 Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript (Vanilla)
+
+- **HTML5** (Semantic Markup)
+- **CSS3 (Vanilla CSS)** – Flexbox & Responsive Design
+- **JavaScript (Basic)** – DOM Manipulation & Event Handling
 
 ---
 
-## 💻 Tools
-- Visual Studio Code  
-- Git & GitHub  
-- Google Chrome DevTools  
+## 💻 Development Tools
+
+- Visual Studio Code
+- Google Chrome DevTools
+- Git & GitHub
 
 ---
 
-## 🎯 Tujuan Project
-Project ini dibuat sebagai latihan frontend development dasar sekaligus portfolio untuk melamar posisi **Frontend Developer Intern**.
+## 📷 Preview
+
+*(You can add screenshots here later if needed)*
 
 ---
 
-## 📌 Catatan
-Project ini masih bersifat sederhana dan dapat dikembangkan lebih lanjut di masa mendatang.
+## 🔗 Live Demo
+
+https://indradityaa.github.io/KATALOG-PRODUCTS/
 
 ---
 
-🔗 Live Demo: https://indradityaa.github.io/KATALOG-PRODUCTS/
+## 📂 Repository Structure
+
+├── assets/
+│ ├── icons/
+│ └── images/
+│
+├── dist/
+│ ├── css/
+│ │ └── style.css
+│ └── js/
+│ └── script.js
+│
+├── index.html
+├── detail.html
+├── .gitignore
+└── README.md
+
+---
+
+## 🎯 Learning Objectives
+
+- Practice responsive layout using pure CSS
+- Improve understanding of DOM manipulation
+- Strengthen fundamental frontend development skills
+- Build a clean and structured web project
+
+---
+
+## 📈 Future Improvements
+
+- Add product filtering functionality
+- Implement search feature
+- Connect to backend/database
+- Improve UI design and animations
