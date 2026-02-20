@@ -40,7 +40,7 @@ It focuses on implementing fundamental frontend concepts without using any exter
 
 ## 📷 Preview
 
-*(You can add screenshots here later if needed)*
+![Preview](assets/images/preview.png)
 
 ---
 
